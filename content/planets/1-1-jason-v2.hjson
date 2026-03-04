@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Jason 2.0
+localizedName: theia
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -142,5 +142,5 @@ launchCandidates: []
 #]
 # Only items available in this planet. Recommended over hiddenItems.
 itemWhitelist: [
-  copper, lead, beryllium, graphite, titanium
+  copper
 ]
