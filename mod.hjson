@@ -1,17 +1,17 @@
 // file name very used in logic like template-block.
-name: "template"
+name: "osakanREtinkered"
 
-displayName: "Mod Template"
-repo: "Fat-Bird-Owner/Mindustry-mod-template-hjson"
-subtitle: ""
-author: ""
+displayName: "osakan worlds: REtinkered"
+repo: "oleksiy1409liut/osakan-worlds-retinkered"
+subtitle: "a"
+author: "gabriel ultrakill"
 
-description: ""
+description: "THE osakan worlds mod but i remade it and it SHOULD be better, there wont be ay vanilla override, the mod wont be as complex and the normal vanilla power system will be there (most vanilla blocks would still be blocked)"
 
 iosCompatible: true
-version: "v1"
-minGameVersion: "154.3"
-dependencies: []
+version: "0.01"
+minGameVersion: "146"
+dependencies: [multicrafterlib]
 hidden: false
 
 contentOrder:[]
