@@ -1,0 +1,13 @@
+{
+type: material
+name: raw copper
+description: raw version of copper, needs to be smelted
+cost: 0
+color: ffffff
+
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
+}
