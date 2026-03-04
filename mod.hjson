@@ -11,7 +11,7 @@ description: "THE osakan worlds mod but i remade it and it SHOULD be better, the
 iosCompatible: true
 version: "0.01"
 minGameVersion: "146"
-dependencies: [multicrafterlib]
+dependencies: ["multi-crafter","multiblock-lib"]
 hidden: false
 
 contentOrder:[]
