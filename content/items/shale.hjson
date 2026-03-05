@@ -1,1 +1,13 @@
+{
+type: material
+name: shale
+description: the rock that osaka is mainly composed of, not tough but useful in structure
+cost: 0
+color: ffffff
 
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
+}
