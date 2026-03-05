@@ -10,8 +10,8 @@ description: "THE osakan worlds mod but i remade it and it SHOULD be better, the
 
 iosCompatible: true
 version: "0.01"
-minGameVersion: "146"
-dependencies: ["multi-crafter","multiblock-lib"]
+minGameVersion: "155"
+dependencies: ["hjsonpp"]
 hidden: false
 
 contentOrder:[]
