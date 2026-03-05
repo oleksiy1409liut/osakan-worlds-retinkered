@@ -1,0 +1,13 @@
+{
+type: material
+name: mud
+description: found under the thin ice layer on osaka in big amounts, weak but useful fuel
+cost: 0
+color: ffffff
+
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 0
+}
