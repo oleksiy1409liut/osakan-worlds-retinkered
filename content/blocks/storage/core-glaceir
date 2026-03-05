@@ -1,0 +1,22 @@
+type: CoreBlock
+name: core: glaceir
+description: low armor and storage core, the first core on osaka, has a automatic heating system built inside for no freezing
+requirements: [
+ acopper/950
+ shale/1100
+]
+isFirstTier: true
+size: 2
+squareSprite: false
+alwaysUnlocked: true
+unitType: nova
+health: 900
+itemCapacity: 2100
+unitCapModifier: 10
+category: effect
+research: {
+  planet: osaka
+  root: true
+  name: Osaka
+  requiresUnlock: false
+}
