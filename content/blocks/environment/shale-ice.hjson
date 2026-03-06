@@ -1,0 +1,8 @@
+type: Floor
+name: shale ice
+itemDrop: shale
+playerUnmineable: false
+attributes: {
+  oil: 0.3
+  sand: 0.4
+}
