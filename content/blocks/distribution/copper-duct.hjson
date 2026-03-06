@@ -1,0 +1,13 @@
+type: Duct
+name: copper duct
+description: transports items in a warm zone to prevent damage, quite slow
+category: distribution
+alwaysUnlocked: true
+research: core-glaceir
+speed: 10
+health: 45
+bridgeReplacement: bridge-conveyor
+requirements: [
+  acopper/1
+]
+junctionReplacement: junction
