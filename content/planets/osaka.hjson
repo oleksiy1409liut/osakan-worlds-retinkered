@@ -142,5 +142,5 @@ launchCandidates: []
 #]
 # Only items available in this planet. Recommended over hiddenItems.
 itemWhitelist: [
-  copper
+  acopper, shale, raw-copper, mud
 ]
