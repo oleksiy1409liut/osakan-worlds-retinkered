@@ -1,0 +1,22 @@
+name: ice breaker
+description: a cheap and weak drill designed to mine resources inside ice slowly, can mine basic ores too.
+type: Drill
+hasLiquids: false
+size: 2
+itemCapacity: 20
+tier: 1
+drillTime: 120
+drawMineItem: false
+alwaysUnlocked: false
+requirements: [
+  acopper/5
+  shale/6
+]
+category: production
+research: {
+  parent: acopper
+  requirements: [
+    acopper/10
+    shale/12
+  ]
+}
