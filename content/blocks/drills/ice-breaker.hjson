@@ -5,7 +5,7 @@ hasLiquids: false
 size: 2
 itemCapacity: 20
 tier: 1
-drillTime: 120
+drillTime: 260
 drawMineItem: false
 alwaysUnlocked: false
 requirements: [
