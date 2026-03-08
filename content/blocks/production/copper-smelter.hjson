@@ -1,0 +1,32 @@
+{
+name: copper smelter
+description: smelts raw copper into copper with the help of mud fuel, has small chance to fail.
+type: ColliderCrafter
+health: 560
+size: 2
+heatOutput: 2
+rotate: true
+category: crafting
+research: "solecian-gate"
+researchCost: [
+    silicon/450
+    beryllium/750
+    graphite/650
+  ]
+craftTime: 80
+craftEffect: reactorsmoke
+outputItems: [
+acopper/2
+]
+produceChance: 0.95
+consumes: {
+items: [
+raw-copper/2
+mud/1
+]
+}  
+requirements: [
+  raw-copper/15
+    shale/10
+]
+}
