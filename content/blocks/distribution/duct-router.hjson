@@ -11,5 +11,5 @@ requirements: [
 ]
 squareSprite: false
 category: distribution
-research: copper-duct
+research: copper-duct-bridge
 researchCostMultiplier: 0.5
