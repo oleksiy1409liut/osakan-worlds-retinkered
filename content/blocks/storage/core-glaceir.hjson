@@ -9,7 +9,7 @@ isFirstTier: true
 size: 2
 squareSprite: false
 alwaysUnlocked: true
-unitType: nova
+unitType: poly
 health: 900
 itemCapacity: 2100
 unitCapModifier: 10
