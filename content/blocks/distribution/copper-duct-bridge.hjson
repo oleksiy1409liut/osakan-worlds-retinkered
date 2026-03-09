@@ -1,0 +1,15 @@
+type: DuctBridge
+name: copper duct bridge
+description: allows to cross 2 different duct systems without interferance of one another
+health: 135
+size: 1
+requirements: [
+  shale/4
+  acopper/2
+] 
+category: distribution
+research: copper-duct
+squareSprite: false
+range: 4
+speed: 4.285714
+researchCostMultiplier: 0.5
