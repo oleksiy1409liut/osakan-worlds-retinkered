@@ -1,0 +1,15 @@
+type: Router
+name: duct router
+description: splits items into 4 directions (dont connect 2 of them as that may cause mental issues)
+size: 1
+speed: 6
+health: 110
+itemCapacity: 5
+requirements: [
+  acopper/3
+  shale/1
+]
+squareSprite: false
+category: distribution
+research: copper-duct
+researchCostMultiplier: 0.5
